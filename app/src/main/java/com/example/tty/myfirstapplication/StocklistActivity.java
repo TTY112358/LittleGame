@@ -39,7 +39,6 @@ public class StocklistActivity extends ActionBarActivity {
         StockMarket.addStock(600483, "Stock_9");
         StockMarket.addStock(600726, "Stock_10");
         StockMarket.addStock(600477, "Stock_11");
-        StockMarket.addStock(600444, "Stock_12");
         lv = (ListView)findViewById(R.id.listView1);
         bt1 = (Button)findViewById(R.id.stocklist_button1);
         tv1 = (TextView)findViewById(R.id.stocklist_textView2);
