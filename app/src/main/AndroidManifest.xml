@@ -24,6 +24,10 @@
             android:name=".BankActivity"
             android:label="@string/title_activity_bank" >
         </activity>
+        <activity
+            android:name=".OfficeActivity"
+            android:label="@string/title_activity_office" >
+        </activity>
     </application>
 
 </manifest>
